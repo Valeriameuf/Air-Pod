@@ -307,7 +307,7 @@ body {
   padding: 20px 0;
 }
 .footer__list {
-  padding-top: 80px;
+  padding: 80px 0 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -387,6 +387,9 @@ body {
     font-size: 110px;
     margin-bottom: 1.25rem;
   }
+  .section-audio__inner {
+display:none;
+}
 }
 @media (max-width: 560px) {
   .section-choose__content {
