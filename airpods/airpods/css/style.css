@@ -387,6 +387,9 @@ body {
     font-size: 110px;
     margin-bottom: 1.25rem;
   }
+    .section-choose__btn {
+    padding: 30px 20px;
+  }
   .section-audio__inner {
 display:none;
 }
